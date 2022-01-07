@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://medium.com/@sandeepbeherakbl/how-we-cloned-the-mpl-website-in-5-days-b447b0f81814"
                 target="_blank"
                 rel="noreferrer"
               >
