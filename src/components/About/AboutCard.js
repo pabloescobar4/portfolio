@@ -10,8 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Dheeraj Mehta </span>
             from <span className="purple"> Hisar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br /> Aspiring Full stack developer,
+            <br />
+            I have completed MBA from Haryana School of Business and i am quick learner and hence I'm always looking for newer challenges.
+            
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

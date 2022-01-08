@@ -27,8 +27,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Walmart"
-              description="Using HTML, CSS, Node.js, Express & MongoDB, I have built a clone of MPL.live. Which allows users to win rewards and cash prizes by playing the games of their choice.."
-              link="https://github.com/pabloescobar4/Walmart-Clone"
+              description="Using HTML, CSS, Node.js,  I have built a clone of Walmart. Which allows users to shop products for daily essentials and with a variety of products"
             />
           </Col>
 
