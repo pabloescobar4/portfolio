@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
+import ProjectCard1 from "./ProjectCards1";
 import Particle from "../Particle";
 
 import leaf from "../../Assets/Projects/leaf.png";
@@ -48,7 +49,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCard1
               imgPath={spot}
               isBlog={false}
               title="Spotify"
