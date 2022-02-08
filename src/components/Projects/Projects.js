@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import leaf from "../../Assets/Projects/leaf.png";
+import spot from "../../Assets/Projects/spot.png";
 
 import chatify from "../../Assets/Projects/chatify.png";
 
@@ -35,12 +36,27 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="MPL - Clone"
+              title="MPL"
               description="Using HTML, CSS, Node.js, Express & MongoDB, I have built a clone of MPL.live. Which allows users to win rewards and cash prizes by playing the games of their choice."
              
             
               link="https://github.com/pabloescobar4/mpl.live"
               link1="http://dkmehta2.herokuapp.com/"
+          
+              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={spot}
+              isBlog={false}
+              title="Spotify"
+              description="Using HTML, CSS, Node.js, Express & MongoDB, I have built a clone of MPL.live. Which allows users to win rewards and cash prizes by playing the games of their choice."
+             
+            
+              link="https://github.com/pabloescobar4/spotifyyyy"
+              link1="https://spotifydk.herokuapp.com/"
           
               
             />
