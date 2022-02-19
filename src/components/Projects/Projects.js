@@ -29,7 +29,7 @@ function Projects() {
               title="Walmart"
               description="Using HTML, CSS, Node.js,  I have built a clone of Walmart. Which allows users to shop products for daily essentials and with a variety of products"
               link="https://github.com/pabloescobar4/Walmart-Clone"
-              link1="https://dheerajm.netlify.app"
+              link1="walmart-clone-dusky.vercel.app"
             />
           </Col>
 
