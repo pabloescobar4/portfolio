@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Dheeraj Mehta </span>
             from <span className="purple"> Hisar, India.</span>
-            <br /> Aspiring Full stack developer,
+            <br /> Full stack developer with 3 yrs of experience,
             <br />
             I have completed MBA from Haryana School of Business and i am quick learner and hence I'm always looking for newer challenges.
             
@@ -20,7 +20,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Snooker
             </li>
             <li className="about-activity">
               <ImPointRight /> Writting Tech Blogs
